@@ -6,6 +6,10 @@
   "dependencies": {
     "toolbox-js": "git+https://github.com/anerani/toolbox-js.git"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/anerani/tcup.git"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
