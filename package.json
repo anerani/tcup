@@ -1,0 +1,21 @@
+{
+  "name": "tcup",
+  "version": "0.1.0",
+  "description": "A simple TCP to UNIX socket proxy",
+  "main": "tcup.js",
+  "dependencies": {
+    "toolbox-js": "git+https://github.com/anerani/toolbox-js.git"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tcp",
+    "unix",
+    "socket",
+    "proxy"
+  ],
+  "author": "Tomi Juntunen <tojuntu@gmail.com> (http://clarifiedtech.blogspot.fi/)",
+  "license": "MIT"
+}
