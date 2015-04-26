@@ -13,6 +13,6 @@ iojs tcup.js --help
 ```
 
 Dependencies:
-* toolbox-js: A collection of some JavaScript utilities.
+* [toolbox-js](https://github.com/anerani/toolbox-js): A collection of some JavaScript utilities.
 
 Note: This app is not recommended for production environments, just for development purposes.
